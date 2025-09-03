@@ -1,5 +1,6 @@
 #Cisco ESA Potential directory harvest attack containing IP adresses of IoC
 103.126.93.33
+143.244.167.41
 172.233.219.123
 172.233.219.124
 178.162.136.9
